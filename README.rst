@@ -140,3 +140,5 @@ TODO
 - GitHub actions for releasing to PyPi when changes to version
 - pytorch compatible
 - Cython / C++
+
+:)
